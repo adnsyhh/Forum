@@ -14,6 +14,8 @@ public class Forum5 {
         Anjing buddy = new Anjing("Pitbull", "Buddy", "Betina", "Joshua", 5);
         Kucing brown = new Kucing("Persia", "Brown", "Betina", "Orlando", 1);
         Burung lukas = new Burung("Kakatua", "Lukas", "Jantan", "Asep", 3);
+        DokterHewan dokter1 = new DokterHewan("Dr. Faiz", "Spesialis Anjing");
+
 
         buddy.tambahRiwayatMedis("Vaksin Parvovirus");
         buddy.tambahRiwayatMedis("Operasi kaki");
